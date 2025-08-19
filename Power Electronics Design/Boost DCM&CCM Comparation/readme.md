@@ -1,1 +1,1 @@
-The challenge in the first exam in Fundamentals of power electronics was design a boost converter in dcm and ccm, slect the bes switches, cores, and compare the volum and efficiency of both.
+The challenge for the first exam in Fundamentals of Power Electronics was to design a boost converter operating in both Discontinuous Conduction Mode (DCM) and Continuous Conduction Mode (CCM). The task included selecting the best switches and magnetic cores, and finally, comparing the volume and efficiency of both designs.
