@@ -1,1 +1,1 @@
-The challenge for the first exam in Fundamentals of Power Electronics was to design a boost converter operating in both Discontinuous Conduction Mode (DCM) and Continuous Conduction Mode (CCM). The task included selecting the best switches and magnetic cores, and finally, comparing the volume and efficiency of both designs.
+Our group participated in a competition to achieve the highest power density and efficiency for a bidirectional DC/DC converter. Our design reached 99.42% efficiency and a power density of 28.4 kW/l.
