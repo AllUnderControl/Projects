@@ -1,4 +1,3 @@
-A paper was submited to a congress and later will be appear in IEEE Xplore, when coclude the link will be reported here.
+A paper was submitted to a conference and will later appear on IEEE Xplore; the link will be provided here upon conclusion.
 
-In this project a discrete time of the integral sliding mode control will be proposed to DC/DC converter using the equivalent control for LTI systems.
-The tasks during this paper are the non minimum phase system wich implies in closed loop unstable dynamics, therfore the unmatched disturbance,parametric variation, relative degree and closed loop stability.
+In this project, a discrete-time integral sliding mode control is proposed for a DC/DC converter, utilizing the equivalent control method for LTI systems. The challenges addressed in this paper include the non-minimum phase characteristics of the system, which implies unstable closed-loop dynamics, as well as issues of unmatched disturbances, parametric variations, relative degree, and overall closed-loop stability.
