@@ -1,0 +1,3 @@
+In the subject of CI concepts my group was implementated acontinuous time closed loop buck in CMOS 45nm technology fedded with a battery power supply(3.3V-5V) step down to 1V.
+My contribuition is the control part, doing the non tradditional modelatting of the system and the closed loop gains in the state feedback controller. Also, i work in the hardware system proposing teh casced mosfets to complaing teh voltage circuits.
+Although the project isn't all complete, becuase of the small time, the next stepes are pointed especially in find driver topolifgies to guarantee the maximum voltages, and the tasks to implement the control circuit in the hardware limits.
