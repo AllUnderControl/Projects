@@ -1,1 +1,1 @@
-The group was presented in a competition to find the bigger power density and efficincy for a bidirectional DC/DC converter, with 99.42% of efficiency and 28.4 kW/l. 
+Our group participated in a competition to achieve the highest power density and efficiency for a bidirectional DC/DC converter. Our design reached 99.42% efficiency and a power density of 28.4 kW/l.
