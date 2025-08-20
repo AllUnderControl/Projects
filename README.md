@@ -1,2 +1,2 @@
 # Projects
-Presetation about someones my undergradute projects during the bacharelors degree in Electrical Engineering at UFSM.
+Presentation about some of my undergraduate projects during my bachelor's degree in Electrical Engineering at UFSM.
