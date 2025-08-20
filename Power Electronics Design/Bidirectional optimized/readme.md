@@ -1,1 +1,1 @@
-Our group participated in a competition to achieve the highest power density and efficiency for a bidirectional DC/DC converter. Our design reached 99.42% efficiency and a power density of 28.4 kW/l.
+My class was participated in a competition to achieve the highest power density and efficiency for a bidirectional DC/DC converter. My design reached 99.42% efficiency and a power density of 28.4 kW/l.
